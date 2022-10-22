@@ -13,9 +13,7 @@
 <em>We are a platform with the objective of connecting People to Access, helping you to organize your best moments.
 Create your nPass now!</br>
 
-[![Instagram Badge](https://img.shields.io/badge/-nPass-blue?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/npassbrasil/)](https://instagram.com/npassbrasil/)
-
-[![Linkedin Badge](https://img.shields.io/badge/-nPass-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
+[![Instagram Badge](https://img.shields.io/badge/-nPass-blue?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/npassbrasil/)](https://instagram.com/npassbrasil/) [![Linkedin Badge](https://img.shields.io/badge/-nPass-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anirudhemmadi/)](https://www.linkedin.com/in/anirudhemmadi/)
 </em>
 
 </br>
