@@ -1,4 +1,4 @@
-![](https://visitor-badge.glitch.me/badge?page_id=pabloteari.pabloteari) [![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+![](https://visitor-badge.glitch.me/badge?page_id=pabloteari.pabloteari) 
 
 <h2>It's me, @pabloteari!</h2>
 
